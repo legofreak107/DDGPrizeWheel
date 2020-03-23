@@ -1,0 +1,8 @@
+name: DDGPrizeWheel
+version: ${project.version}
+main: me.legofreak107.ddgprizewheel.Main
+commands:
+  wheel:
+    description: Spin the wheel
+  reward:
+    description: Edit rewards
